@@ -1,1 +1,1 @@
-export let InputComponent = (a,b) => a + b
+export let InputComponent = (a,b) => a - b
