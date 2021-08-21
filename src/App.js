@@ -17,8 +17,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <InputContainer placeholder={"you duddle"}/>
         </a>
+        <InputContainer placeholder={"you duddle"}/>
       </header>
     </div>
   );

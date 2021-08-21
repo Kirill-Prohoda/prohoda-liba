@@ -1,5 +1,5 @@
 import React from 'react'
-let InputContainer = (props) =>{
+export let InputContainer = (props) =>{
     let {placeholder} = props
     return (
         <div>
@@ -7,5 +7,3 @@ let InputContainer = (props) =>{
         </div>
     )
 }
-
-export default InputContainer
