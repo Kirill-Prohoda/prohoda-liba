@@ -1,6 +1,6 @@
 {
   "name": "prohoda-libas",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "just first a package",
   "main": "index.js",
   "type": "module",
