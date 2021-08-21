@@ -1,8 +1,10 @@
-
+import React from 'react'
 let InputContainer = (props) =>{
     let {placeholder} = props
     return (
-        <input placeholder={placeholder} />
+        <div>
+            <input placeholder={placeholder} />
+        </div>
     )
 }
 
