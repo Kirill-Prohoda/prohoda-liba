@@ -1,0 +1,6 @@
+{
+    "main": "./Input.cjs.js",
+    "module": "./Input.esm.js",
+    "unpkg": "./Input.min.js",
+    "types": "./Input.d.ts"
+}
