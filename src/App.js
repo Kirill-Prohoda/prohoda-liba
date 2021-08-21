@@ -5,9 +5,11 @@ import InputContainer from './components/Input/InputContainer';
 function App() {
   return (
     <div className="App">
-      <InputContainer 
-        placeholder={"something do"} 
-      />
+
+        <InputContainer 
+          placeholder={"something do"} 
+        />
+
     </div>
   );
 }
