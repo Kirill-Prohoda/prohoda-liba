@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import InputContainer from './components/InputContainer';
+import {InputContainer} from './components/InputContainer';
 
 function App() {
   return (
