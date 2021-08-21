@@ -2,7 +2,7 @@
   "name": "prohoda-libas",
   "version": "1.0.10",
   "description": "just first a package",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "repository": "https://github.com/Kirill-Prohoda/prohoda-liba.git",
   "author": "kirill <prohodakirill@gmail.com>",
