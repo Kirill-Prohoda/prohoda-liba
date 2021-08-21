@@ -1,8 +1,8 @@
 {
-  "name": "prohoda-liba",
+  "name": "prohoda-libas",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "prohoda-first-liba",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Kirill-Prohoda/prohoda-liba.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "first",
+    "lib"
+  ],
+  "author": "kirillprohoda",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kirill-Prohoda/prohoda-liba/issues"
